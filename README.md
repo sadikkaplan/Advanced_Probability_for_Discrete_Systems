@@ -1,1 +1,1 @@
-# Advanced_Probability_for_Discrete_Systems
+Ayrık Sistemler İçin İleri Olasılık dersi için ödevler
